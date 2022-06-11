@@ -1,3 +1,4 @@
+runtime: nodejs16
 service: 'submission1'
 
 handlers:
