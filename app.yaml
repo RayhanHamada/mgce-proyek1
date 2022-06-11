@@ -1,4 +1,4 @@
-service_name: 'submission1'
+service: 'submission1'
 
 handlers:
   - url: /
