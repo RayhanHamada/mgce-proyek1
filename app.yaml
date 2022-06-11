@@ -1,0 +1,5 @@
+service_name: 'submission1'
+
+handlers:
+  - url: /
+    static_dir: index.html
